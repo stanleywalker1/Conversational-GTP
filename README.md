@@ -1,6 +1,6 @@
 # ChatGPT + Whisper = Voice assistant!
 
-## This is a clone of the following repository with adaptions for our IDD Lab 3 project:
+### This is a clone of the following repository with adaptions for our IDD Lab 3 project:
 `https://github.com/PabloCanovas/chatgpt-whisper-streamlit-voice-assistant gpt_voice_assistant`
 
 ## Project description
